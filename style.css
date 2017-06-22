@@ -44,3 +44,11 @@
 	.tfclear{
 		clear:both;
 	}
+
+	.nav{
+		display:inline;
+	}
+	
+	.log-search{
+		display:inline;	
+	}
